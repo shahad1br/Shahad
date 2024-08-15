@@ -18,24 +18,24 @@ This desktop application, built on Java, offers weather information for specifie
 ## Installation
 
   1. Clone the repository:
-  ```sh
+     ```sh
 git clone https://github.com/your-repo/weather-app.git
 cd weather-app
-  ```
+    ```
 
     2. Replace the `API_KEY` in `WeatherAPIService.java` with your OpenWeatherMap API key.
  
 ## Usage
 
 1. Compile the Java files:
-  ` ```sh
+```sh
     javac WeatherApp.java WeatherAPIService.java
-    ```
+```
 
 3. Run the application:
-   ```sh
+ ```sh
     java WeatherApp
-   ```
+  ```
 
 ## Class Descriptions
 
